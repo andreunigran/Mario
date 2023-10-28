@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_arrow_downward_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id fragmentContainerView2
+id guideline
+id idArmario
+id idFora
+id item1
+id item2
+id item3
+id subIt
+layout activity_main
+layout fragment_armario
+layout fragment_fora
+menu menu_principal
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string item1
+string item2
+string item3
+style Base.Theme.Mario
+style Theme.Mario
+xml backup_rules
+xml data_extraction_rules
